@@ -1,0 +1,7 @@
+1. Could we exclude revocation handle/index, and revocation value in the anoncreds credential?
+1.1 We cannot exclude cred-def because need to get names of attributes (cred subject)
+
+2. Verify predicate during mapping from A to W? *
+
+3. Include context in proofValues
+4. Combine statements
